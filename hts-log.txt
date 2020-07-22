@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Jul 2020 18:08:49 at https://trustswap.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://trustswap.org/ -O1 "C:\My Web Sites\trustswap" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/css/owl.video.play.png (from https://trustswap.org/assets/css/vendor.bundle.css?ver=236)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/css/fonts/flexslider-icon.eot (from https://trustswap.org/assets/css/vendor.bundle.css?ver=236)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/css/fonts/flexslider-icon.eot? (from https://trustswap.org/assets/css/vendor.bundle.css?ver=236)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/css/fonts/flexslider-icon.woff (from https://trustswap.org/assets/css/vendor.bundle.css?ver=236)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/css/fonts/flexslider-icon.ttf (from https://trustswap.org/assets/css/vendor.bundle.css?ver=236)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/css/fonts/flexslider-icon.svg (from https://trustswap.org/assets/css/vendor.bundle.css?ver=236)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/images/mask-a-dark.png (from https://trustswap.org/assets/css/style-l.css?ver=237)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/images/mask-line.svg (from https://trustswap.org/assets/css/style-l.css?ver=237)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/images/mask-line.png (from https://trustswap.org/assets/css/style-l.css?ver=237)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/images/mask-c-dark.png (from https://trustswap.org/assets/css/style-l.css?ver=237)
+18:11:30	Error: 	"Not Found" (404) at link https://trustswap.org/assets/images/mask-d2.png (from https://trustswap.org/assets/css/style-l.css?ver=237)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 42 seconds : 176 links scanned, 164 files written (11926613 bytes overall) [7942253 bytes received at 49026 bytes/sec], 6966259 bytes transferred using HTTP compression in 68 files, ratio 40%, 88.0 requests per connection
+(11 errors, 0 warnings, 0 messages)
